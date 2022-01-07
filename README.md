@@ -1,4 +1,4 @@
-# general-and-android-courses
+# list of good programming courses (general and android specefic)
 
 ## This is a list of a couple of programming courses, the list contains some general programming courses that can be used by anyone and some more specific to java android developers. the courses are suitable for beginners to more seasoned developrs.
 
